@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋 I'm Sebastien
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hashs7)](https://git.io/streak-stats)
 
 <!--
 **Hashs7/Hashs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
