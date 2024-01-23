@@ -1,7 +1,7 @@
 # Sébastien's GitHub Profile
 
 👋 Hello, fellow developers! Welcome to my GitHub haven. I'm Sébastien, a passionate frontend developer living in the vibrant city of Barcelona 🇪🇸   
-Currently, I'm weaving magic in the digital realm as a proud member of the [Kraken team](https://github.com/octoenergy).
+<!--Currently, I'm weaving magic in the digital realm as a proud member of the [Kraken team](https://github.com/octoenergy).-->
 
 ## 🌱 About me
 
@@ -28,7 +28,7 @@ Here are some of the tools and technologies I wield in my quest to build extraor
 
 I'm always open to collaboration, discussions, and sharing knowledge. Feel free to reach out to me at [contact@sebhernoux.me](mailto:contact@sebhernoux.me) for any inquiries or just to say hi.
 
-Thank you for visiting my GitHub space. May your code be bug-free, your designs pixel-perfect, and your journey in the tech realm be filled with endless possibilities! 🚀✨
+May your code be bug-free, your designs pixel-perfect, and your journey in the tech realm be filled with endless possibilities! 🚀✨
 
 <!--
 **Hashs7/Hashs7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
