@@ -1,7 +1,7 @@
 # Sébastien's GitHub Profile
 
 👋 Hello, fellow developers! Welcome to my GitHub haven. I'm Sébastien, a passionate frontend developer living in the vibrant city of Barcelona 🇪🇸   
-<!--Currently, I'm weaving magic in the digital realm as a proud member of the [Kraken team](https://github.com/octoenergy).-->
+Currently, I'm weaving magic in the digital realm as a proud member of the [Kraken Technologies](https://github.com/octoenergy).
 
 ## 🌱 About me
 
