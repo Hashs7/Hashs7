@@ -1,23 +1,15 @@
 # Sébastien's GitHub Profile
 
 👋 Hello, fellow developers! Welcome to my GitHub haven. I'm Sébastien, a passionate frontend developer living in the vibrant city of Barcelona 🇪🇸   
-Currently, I'm weaving magic in the digital realm as a proud member of the [Kraken Technologies](https://github.com/octoenergy).
+Currently, I'm weaving magic in the digital realm as a proud member of [Kraken Technologies](https://github.com/octoenergy).
 
+<!--
 ## 🌱 About me
 
 I'm a tech artisan with a commitment to building a sustainable and renewable future. With a deep respect for the environment, I weave my code with the threads of eco-consciousness, ensuring that the digital experiences I craft leave the smallest possible ecological footprint and raise awarness.
 As a frontend developer, I specialize in turning complex ideas into intuitive interfaces using JavaScript spells. I'm particularly adept at wielding the latest frameworks and libraries to create modern, responsive, and performant web applications.
-
-<!--
-## 🛠️ Current Arsenal
-
-Here are some of the tools and technologies I wield in my quest to build extraordinary digital experiences:
-
-- **Languages**: JavaScript
-- **Frameworks**: React, Vue
-- **Design Magic**: Figma
-- **Version Control**: Git, GitHub
 -->
+
 ## 📫 Get in touch
 
 I'm always open to collaboration, discussions, and sharing knowledge. Feel free to reach out to me at [contact@sebhernoux.me](mailto:contact@sebhernoux.me) for any inquiries or just to say hi.
